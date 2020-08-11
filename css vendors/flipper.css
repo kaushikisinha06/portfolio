@@ -40,7 +40,7 @@
   transform: rotateY(180deg);
   }
   .section-heading{
-    background: url("../assets/images\ \(2\).jpg");
+    background: url("../assets/scenery.jpg");
   }
   .section-heading h2{
     color: white;
@@ -55,6 +55,18 @@
     color: white;
     text-align: center;
     text-decoration: none;
+  }
+  .flip-card-back h1{
+    font-style: oblique;
+      font-size: extra x-large;
+    color: white;
+
+  }
+  .flip-card-back p{
+    font-style: oblique;
+      font-size: large;
+    color: white;
+
   }
     
 
