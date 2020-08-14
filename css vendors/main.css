@@ -776,13 +776,8 @@
                               .portfolio-area .lightbox-wrapper .lightbox-content .content-info .single-info:nth-last-child(-n+2){margin-bottom:10px}
                             }
                             
-                            @media (max-width:767.98px){
-                              .testimonials-area .single-review .review-icon{
-                                font-size:58px;margin-bottom:22px
-                              }
-                              .testimonials-area .single-review .review-content
-                              {margin-bottom:28px}
-                            }
+                           
+                            
                             .blog-area .single-post{
                               background-color:transparent;
                               border:none
